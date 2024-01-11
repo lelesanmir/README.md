@@ -20,8 +20,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, atualmente focado em estu
 - 🐘 PHP
 - 📚 Git e GitHub
 
-## Idioma
-- [Português](#)
+
 
 
 
